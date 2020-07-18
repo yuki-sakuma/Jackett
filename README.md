@@ -6,6 +6,7 @@
 [![GitHub Releases](https://img.shields.io/github/downloads/Jackett/Jackett/total.svg?maxAge=60&style=flat-square)](https://github.com/Jackett/Jackett/releases/latest)
 [![Docker Pulls](https://img.shields.io/docker/pulls/linuxserver/jackett.svg?maxAge=60&style=flat-square)](https://hub.docker.com/r/linuxserver/jackett/)
 [![Discord](https://img.shields.io/badge/discord-chat-7289DA.svg?maxAge=60&style=flat-square)](https://discord.gg/J865QuA)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyuki-sakuma%2FJackett.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyuki-sakuma%2FJackett?ref=badge_shield)
 
 This project is a new fork and is recruiting development help.  If you are able to help out please contact us.
 
@@ -747,3 +748,7 @@ dotnet publish Jackett.Server -f netcoreapp3.1 --self-contained -r linux-x64 -c 
 ![screenshot](https://raw.githubusercontent.com/Jackett/Jackett/master/.github/jackett-screenshot3.png)
 
 [inviteneeded]: https://raw.githubusercontent.com/Jackett/Jackett/master/.github/label-inviteneeded.png
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyuki-sakuma%2FJackett.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyuki-sakuma%2FJackett?ref=badge_large)
